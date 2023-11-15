@@ -10,5 +10,5 @@ variable "access_key" {
 
 variable "secret_key" {
   type = string
-  description = "Enter the secret key"
+  description = "Enter the secret access key"
 }
